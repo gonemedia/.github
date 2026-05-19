@@ -37,23 +37,20 @@ Lives in its own organization, [@skalesapp](https://github.com/skalesapp).
 
 ### AIPointer ⦿
 
-<a href="https://aipointer.app">
-  <img width="800" height="450" alt="592426643-3d174dda-b961-4ce8-8474-e05e07e27009" src="https://github.com/user-attachments/assets/f4305b76-cd03-4547-8bdb-daddad33d8b7" />
+<img width="800" height="450" alt="AIPointer demo" src="https://github.com/user-attachments/assets/f4305b76-cd03-4547-8bdb-daddad33d8b7" />
 
-</a>
-
-A small, fast, floating overlay for instant AI queries from anywhere on your desktop. Hit a hotkey, ask, get an answer - without opening a tab, switching apps, or breaking your flow. Four LLM providers, single-shot Q&A, bounded tools, MIT-licensed, ~16 hour sprint to v1.0.0.
+A small, fast, floating overlay for instant AI queries from anywhere on your desktop. Hit a hotkey, ask, get an answer - without opening a tab, switching apps, or breaking your flow. Four LLM providers, single-shot Q&A, bounded tools, source-available under BSL-1.1, ~16 hour sprint to v1.0.0.
 
 <p>
   <a href="https://github.com/gonemedia/aipointer/releases/latest"><img src="https://img.shields.io/github/v/release/gonemedia/aipointer?style=flat-square&color=10b981&label=release" alt="latest release" /></a>
   <a href="https://github.com/gonemedia/aipointer/stargazers"><img src="https://img.shields.io/github/stars/gonemedia/aipointer?style=flat-square&color=10b981" alt="stars" /></a>
-  <a href="https://github.com/gonemedia/aipointer/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-10b981?style=flat-square" alt="MIT license" /></a>
+  <a href="https://github.com/gonemedia/aipointer/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-BSL_1.1-10b981?style=flat-square" alt="BSL-1.1 license" /></a>
   <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white" alt="Electron" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-→ [aipointer.app](https://aipointer.app) · [github.com/gonemedia/aipointer](https://github.com/gonemedia/aipointer) · [Watch the demo](https://www.youtube.com/watch?v=NRIlG32hvLg)
+→ <a href="https://aipointer.app">aipointer.app</a> · <a href="https://github.com/gonemedia/aipointer">github.com/gonemedia/aipointer</a> · <a href="https://www.youtube.com/watch?v=NRIlG32hvLg">Watch the demo</a>
 
 ---
 
