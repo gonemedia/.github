@@ -18,7 +18,7 @@
 
 </a>
 
-A local-first AI desktop agent for Windows, macOS, Linux & Android. One-click install, no Docker, no terminal. 15+ AI providers, 139+ tools, multi-agent organizations, autonomous coding, voice, vision, browser control, calendar, email - built into your machine. Bring your own API key or run fully offline with Ollama.
+A local-first AI desktop agent for Windows, macOS, Linux, Android & iOS. One-click install, no Docker, no terminal. 15+ AI providers, 180+ tools, multi-agent organizations, autonomous coding, voice, vision, browser control, calendar, email - built into your machine. Bring your own API key or run fully offline with Ollama.
 
 <p>
   <a href="https://github.com/skalesapp/skales/releases/latest"><img src="https://img.shields.io/github/v/release/skalesapp/skales?style=flat-square&color=10b981&label=release" alt="latest release" /></a>
@@ -51,6 +51,16 @@ A small, fast, floating overlay for instant AI queries from anywhere on your des
 </p>
 
 → <a href="https://aipointer.app">aipointer.app</a> · <a href="https://github.com/gonemedia/aipointer">github.com/gonemedia/aipointer</a> · <a href="https://www.youtube.com/watch?v=NRIlG32hvLg">Watch the demo</a>
+
+---
+
+### Open data libraries
+
+Two small, plain-data repos that live here. Neither contains code — both are formats other tools can read.
+
+**[llm-profiles](https://github.com/gonemedia/llm-profiles)** — per-model tuning profiles that make agents call tools reliably across very different models. Tool-call success and the right sampling parameters vary a lot by model, so one global setting can never fit them all. 16 profiles, a JSON schema, and a manifest so a client can stay up to date. Frontier models deliberately have no profile and run unchanged.
+
+**[api-connectors](https://github.com/gonemedia/api-connectors)** — keyless connector templates that let an agent talk to any REST API from its documentation, with no server to run and no SDK. MCP-lite for the long tail of REST. Your key stays on your machine; the base URL is the trust anchor and a changed domain needs fresh confirmation.
 
 ---
 
